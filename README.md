@@ -6,6 +6,7 @@ Kjente feil
 - Når man kommer tilbake til kartet kan det være helt zoomet ut
 - Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker
 - Når man trykker på `<` pilen øverst til venstre går man fort ut av kontoen
+- Nummer på jordprøve inkrementeres ikke automatisk
 
 Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger
