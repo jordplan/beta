@@ -2,9 +2,9 @@
 
 Sist oppdatert 2022-01-19:
 
-Pipeline (ting som skal utvikles):
+Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger
-- Manglende arbeidsoperasjoner nevnt inne i applikasjone
+- Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
 - Registrering av notater
 - Kunne legge gjødslingsmidler som ikke er registrert i gjødslingsplan
 - Registrering av observasjoner (vekststadie, ugress, ) med geometrier
