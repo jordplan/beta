@@ -8,7 +8,7 @@ Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - Registrering av notater
 - Kunne legge gjødslingsmidler som ikke er registrert i gjødslingsplan
 - Registrering av observasjoner (vekststadie, ugress, ) med geometrier
-- Ulike rapporter av registrert arbeid, spesielt oversikt per vekst og sprøytejournal
+- Ulike rapporter av registrert arbeid, til PDF, spesielt oversikt per vekst og sprøytejournal
 - Filtreringsmuligheter på utført og planlagt arbeid
 - Offline støtte
 - Lagre endringer som standard, tilby angre-knapp istedet
