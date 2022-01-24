@@ -1,6 +1,6 @@
 # Betatesting av ny app
 
-Sist oppdatert 2022-01-19:
+Sist oppdatert 2022-01-24:
 
 Kjente feil
 - [ ] Nummer på jordprøve inkrementeres ikke automatisk
