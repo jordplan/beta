@@ -10,6 +10,7 @@ Kjente feil
 - [ ] Når man kommer tilbake til kartet kan det være helt zoomet ut
 
 Pipeline (ting som skal utvikles, en del av det veldig raskt):
+- [ ] Permanent innlogging
 - [ ] Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger
 - [ ] Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
 - [ ] Registrering av notater
