@@ -1,8 +1,9 @@
 # Betatesting av ny app
 
-Sist oppdatert 2022-01-24:
+Sist oppdatert 2022-01-31:
 
 Kjente feil
+- [ ] Komma som desimaltegn fungerer ikke
 - [ ] Nummer på jordprøve inkrementeres ikke automatisk
 - [X] ~Angivelse av tid (timer:minutter) går over sine bredder på Android~
 - [ ] Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker
