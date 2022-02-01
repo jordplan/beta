@@ -1,6 +1,6 @@
 # Betatesting av ny app
 
-Sist oppdatert 2022-01-31:
+Sist oppdatert 2022-02-01:
 
 Kjente feil
 - [X] ~Komma som desimaltegn fungerer ikke~
