@@ -7,7 +7,7 @@ Kjente feil
 - [ ] Nummer på jordprøve inkrementeres ikke automatisk
 - [X] ~Angivelse av tid (timer:minutter) går over sine bredder på Android~
 - [ ] Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker
-- [ ] Når man trykker på `<` pilen øverst til venstre går man fort ut av kontoen
+- [X] ~Når man trykker på `<` pilen øverst til venstre går man fort ut av kontoen~
 - [ ] Når man kommer tilbake til kartet kan det være helt zoomet ut
 
 Pipeline (ting som skal utvikles, en del av det veldig raskt):
@@ -26,3 +26,4 @@ Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Versjon av arbeidsregistrering for nettleser
 - [ ] Arbeidsregistreringa ser ut som et uvær på tablet
 - [ ] Styling av hele brukergrensesnittet
+- [ ] Det er mulig å velge en vekst, så velge en dato som ikke denne veksten er gyldig på
