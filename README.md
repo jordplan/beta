@@ -27,3 +27,4 @@ Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Arbeidsregistreringa ser ut som et uvær på tablet
 - [ ] Styling av hele brukergrensesnittet
 - [ ] Det er mulig å velge en vekst, så velge en dato som ikke denne veksten er gyldig på
+- [ ] Slette arbeidsregistrering
