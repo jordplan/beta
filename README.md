@@ -1,6 +1,6 @@
 # Betatesting av ny app
 
-Sist oppdatert 2022-02-01:
+Sist oppdatert 2022-02-07:
 
 Kjente feil
 - [X] ~Komma som desimaltegn fungerer ikke~
@@ -12,9 +12,9 @@ Kjente feil
 
 Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Permanent innlogging
-- [ ] Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger
+- [X] ~Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger~
 - [ ] Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
-- [ ] Registrering av notater
+- [ ] Registrering av observasjoner (hønsehirse, skadedyr, manglende drenering m.m.)
 - [ ] Kunne legge gjødslingsmidler som ikke er registrert i gjødslingsplan
 - [ ] Registrering av observasjoner (vekststadie, ugress, ) med geometrier
 - [ ] Ulike rapporter av registrert arbeid, til PDF, spesielt oversikt per vekst og sprøytejournal
