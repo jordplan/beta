@@ -12,6 +12,7 @@ Kjente feil
 
 Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Permanent innlogging
+- [ ] Mal-basert registrering av vannjournal
 - [X] ~Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger~
 - [ ] Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
 - [ ] Registrering av observasjoner (hønsehirse, skadedyr, manglende drenering m.m.)
