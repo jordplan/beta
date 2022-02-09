@@ -1,12 +1,12 @@
 # Betatesting av ny app
 
-Sist oppdatert 2022-02-08:
+Sist oppdatert 2022-02-09:
 
 Kjente feil
 - [X] ~Komma som desimaltegn fungerer ikke~
 - [X] ~Nummer på jordprøve inkrementeres ikke automatisk~
 - [X] ~Angivelse av tid (timer:minutter) går over sine bredder på Android~
-- [ ] Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker
+- [ ] Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker. Andre kartlag, som kalkingsplan og drenering, mangler.
 - [X] ~Når man trykker på `<` pilen øverst til venstre går man fort ut av kontoen~
 - [ ] Når man kommer tilbake til kartet kan det være helt zoomet ut
 
