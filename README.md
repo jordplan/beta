@@ -6,12 +6,12 @@ Kjente feil
 - [X] ~Komma som desimaltegn fungerer ikke~
 - [X] ~Nummer på jordprøve inkrementeres ikke automatisk~
 - [X] ~Angivelse av tid (timer:minutter) går over sine bredder på Android~
-- [ ] Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker. Andre kartlag, som kalkingsplan og drenering, mangler.
+- [X] ~Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker. Andre kartlag, som kalkingsplan og drenering, mangler.~
 - [X] ~Når man trykker på `<` pilen øverst til venstre går man fort ut av kontoen~
-- [ ] Når man kommer tilbake til kartet kan det være helt zoomet ut
+- [X] ~Når man kommer tilbake til kartet kan det være helt zoomet ut~ Sjeldent reproduserbart på ekte telefon
 
 Pipeline (ting som skal utvikles, en del av det veldig raskt):
-- [ ] Permanent innlogging
+- [X] ~Permanent innlogging~
 - [ ] Mal-basert registrering av vannjournal
 - [X] ~Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger~
 - [ ] Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
