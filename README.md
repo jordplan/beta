@@ -3,7 +3,7 @@
 Sist oppdatert 2022-02-17:
 
 ## Vil bli lansert i 2.0.1
-- [X] Ikke mulig å kunne oppgi desimaltegn på bruk av plantevernmiddel
+- [X] Ikke mulig å kunne oppgi desimaltegn på mengde av plantevernmiddel, e.g. "1,5gr/da"
 
 ## Kjente feil / pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Mal-basert registrering av vannjournal
