@@ -23,7 +23,7 @@ Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Det er mulig å velge en vekst, så velge en dato som ikke denne veksten er gyldig på
 
 
-Tidligere før 2.0.0
+Ting rettet før 2.0.0
 - [X] Permanent innlogging
 - [X] Arbeidsregistreringa ser ut som et uvær på tablet
 - [X] Slette arbeidsregistrering
