@@ -8,6 +8,8 @@ Kjente feil
 Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Mal-basert registrering av vannjournal
 - [ ] Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
+- [ ] Kunne filtrere arbeid på type arbeidsoperasjoner
+- [ ] Kunne gruppere oppgaver etter vekstarealer, for å bl.a. finnet hull i planleggingen
 - [ ] Registrering av observasjoner (hønsehirse, skadedyr, manglende drenering m.m.)
 - [ ] Kunne legge gjødslingsmidler som ikke er registrert i gjødslingsplan
 - [ ] Registrering av observasjoner (vekststadie, ugress, ) med geometrier
@@ -20,15 +22,16 @@ Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Styling av hele brukergrensesnittet
 - [ ] Det er mulig å velge en vekst, så velge en dato som ikke denne veksten er gyldig på
 
+
 Tidligere før 2.0.0
-- [X] ~Permanent innlogging~
-- [X] ~Arbeidsregistreringa ser ut som et uvær på tablet~
-- [X] ~Slette arbeidsregistrering~
-- [X] ~Filtreringsmuligheter på utført og planlagt arbeid~ Skal utvides med filter for arbeidsoperasjon
-- [X] ~Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger~
-- [X] ~Komma som desimaltegn fungerer ikke~
-- [X] ~Nummer på jordprøve inkrementeres ikke automatisk~
-- [X] ~Angivelse av tid (timer:minutter) går over sine bredder på Android~
-- [X] ~Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker. Andre kartlag, som kalkingsplan og drenering, mangler.~
-- [X] ~Når man trykker på `<` pilen øverst til venstre går man fort ut av kontoen~
-- [X] ~Når man kommer tilbake til kartet kan det være helt zoomet ut~ Sjeldent reproduserbart på ekte telefon
+- [X] Permanent innlogging
+- [X] Arbeidsregistreringa ser ut som et uvær på tablet
+- [X] Slette arbeidsregistrering
+- [X] Filtreringsmuligheter på utført og planlagt arbeid
+- [X] Tilgang til gjødslingsplan, opprette gjødslinger basert på planlagte gjødslinger
+- [X] Komma som desimaltegn fungerer ikke
+- [X] Nummer på jordprøve inkrementeres ikke automatisk
+- [X] Angivelse av tid (timer:minutter) går over sine bredder på Android
+- [X] Geostatistikk fungerer kun for kontoinnehaver, ikke superbruker. Andre kartlag, som kalkingsplan og drenering, mangler.
+- [X] Når man trykker på `<` pilen øverst til venstre går man fort ut av kontoen
+- [X] Når man kommer tilbake til kartet kan det være helt zoomet ut Sjeldent reproduserbart på ekte telefon
