@@ -2,10 +2,10 @@
 
 Sist oppdatert 2022-02-17:
 
-Kjente feil
-- [ ] Ikke mulig å kunne oppgi desimaltegn på bruk av plantevernmiddel
+## Vil bli lansert i 2.0.1
+- [X] Ikke mulig å kunne oppgi desimaltegn på bruk av plantevernmiddel
 
-Pipeline (ting som skal utvikles, en del av det veldig raskt):
+## Kjente feil / pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Mal-basert registrering av vannjournal
 - [ ] Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
 - [ ] Kunne filtrere arbeid på type arbeidsoperasjoner
@@ -23,7 +23,7 @@ Pipeline (ting som skal utvikles, en del av det veldig raskt):
 - [ ] Det er mulig å velge en vekst, så velge en dato som ikke denne veksten er gyldig på
 
 
-Ting rettet før 2.0.0
+## Ting rettet før 2.0.0
 - [X] Permanent innlogging
 - [X] Arbeidsregistreringa ser ut som et uvær på tablet
 - [X] Slette arbeidsregistrering
