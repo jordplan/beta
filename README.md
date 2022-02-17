@@ -1,4 +1,4 @@
-# Betatesting av ny app
+# Ny app for Jordplan
 
 Sist oppdatert 2022-02-17:
 
