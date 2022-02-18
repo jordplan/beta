@@ -6,6 +6,7 @@ Sist oppdatert 2022-02-17:
 - [X] Ikke mulig å kunne oppgi desimaltegn på mengde av plantevernmiddel, e.g. "1,5gr/da"
 
 ## Kjente feil / pipeline (ting som skal utvikles, en del av det veldig raskt):
+- [ ] Gjøre det mulig å velge om kartet viser ett år eller en spesifikk dato
 - [ ] Mal-basert registrering av vannjournal
 - [ ] Manglende arbeidsoperasjoner nevnt inne i applikasjonen, inklusive kombinasjoner
 - [ ] Kunne filtrere arbeid på type arbeidsoperasjoner
